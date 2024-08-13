@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Abhinay Bhosale<br>I'm a passionate React JS and Frontend Developer dedicated to crafting beautiful and interactive web experiences. 🚀<br><br>🛠️ Technologies & Tools:<br>React.js 🧩     
- JavaScript 🌟      HTML5 🏗️<br>CSS3 🎨<br>NodeJs<br>Redux 🔄<br>Sass 🧵<br>Webpack ⚙️<br><br>💡 What I Do:<br>Build responsive and dynamic web applications.<br>Develop user-centric and performant interfaces.<br>Write clean and maintainable code.<br><br>🌟 Currently Learning:<br>Next.js 🌐<br>NodeJs/ExpressJs📈<br>Server-Side Rendering 🌍
+Hi there! I'm Abhinay Bhosale<br>I'm a passionate React JS and Frontend Developer dedicated to crafting beautiful and interactive web experiences. 🚀<br><br>🛠️ Technologies & Tools:<br>React.js 🧩<br>JavaScript 🌟<br>HTML5 🏗️<br>CSS3 🎨<br>NodeJs<br>Redux 🔄<br>Sass 🧵<br>Webpack ⚙️<br><br>💡 What I Do:<br>Build responsive and dynamic web applications.<br>Develop user-centric and performant interfaces.<br>Write clean and maintainable code.<br><br>🌟 Currently Learning:<br>Next.js 🌐<br>NodeJs/ExpressJs📈<br>Server-Side Rendering 🌍
 
 
 ## 🌐 Socials:
